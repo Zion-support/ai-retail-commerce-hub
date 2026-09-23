@@ -25,6 +25,8 @@ AI commerce hub — demand forecasting, dynamic pricing, personalization and inv
 - [zion-ai-social-listening](https://github.com/Zion-support/zion-ai-social-listening)
 - [ai-customer-experience-hub](https://github.com/Zion-support/ai-customer-experience-hub) — https://ziontechgroup.com/ai-customer-experience-hub/
 - [zion-ai-supply-chain](https://github.com/Zion-support/zion-ai-supply-chain) — https://ziontechgroup.com/zion-ai-supply-chain/
+- [Upsell Signal Scout](https://ziontechgroup.com/upsell-signal-scout/) — expansion signals from usage ([repo](https://github.com/Zion-support/upsell-signal-scout))
+- [Voice of Customer Hub](https://ziontechgroup.com/voice-of-customer-hub/) — unified feedback insights ([repo](https://github.com/Zion-support/voice-of-customer-hub))
 
 ## Explore the Network
 - 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
@@ -33,6 +35,9 @@ AI commerce hub — demand forecasting, dynamic pricing, personalization and inv
 - 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
 - 📞 Discovery call: https://ziontechgroup.com/discovery/
 - ✉️ Contact: commercial@ziontechgroup.com
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [E-commerce & Retail AI](https://github.com/Zion-support/zion-network/blob/main/network/ecommerce-retail-ai.md) · [Customer Success & Retention](https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://ziontechgroup.com/en/plans/)
 
 ---
 © 2026 Zion Tech Group
