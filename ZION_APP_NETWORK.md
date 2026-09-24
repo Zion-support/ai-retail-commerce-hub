@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/ai-retail-commerce-hub/
-- 🔗 Related: [Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/) · [Shipping Delay Alerter](https://ziontechgroup.com/shipping-delay-alerter/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Returns Optimization AI](https://ziontechgroup.com/returns-optimization-ai/) · [AI Industry Solutions](https://ziontechgroup.com/ai-industry-solutions/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
